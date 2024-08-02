@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello, my name is Tonaas👋 and I loves testing stuff
+<!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
-<!--
-**TonaasKalesaran/TonaasKalesaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills 🛠️
+- **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, SQL, Gherkin, PHP
+- **Technologies**:  &nbsp;&nbsp;  Selenium, Serenity BDD, RESTful API, Postman.
+- **Others**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agile Testing, Performance Testing, Automation Testing, Git
 
-Here are some ideas to get you started:
+### Education 🎓
+- [Bachelor's Degree] @ Bina Nusantara University (2014 - 2020)
+- Alterra Academy ( April 2024 - July 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More information in my [LinkedIn](https://www.linkedin.com/in/tonaaskalesaran/) 🚀
