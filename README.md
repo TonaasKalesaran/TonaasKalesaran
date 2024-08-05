@@ -11,3 +11,4 @@
 - Alterra Academy ( April 2024 - July 2024)
 -->
 More information in my [LinkedIn](https://www.linkedin.com/in/tonaaskalesaran/) 🚀
+Some of my projects are pinned below!
