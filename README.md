@@ -1,5 +1,7 @@
-### Hello, my name is Tonaas👋 and I loves testing stuff
+## Hello, my name is Tonaas👋 and I loves testing stuff
 <!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
+
+### _"Always learning, always testing"_
 
 ### Skills 🛠️
 - **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, SQL, Gherkin, PHP
