@@ -14,4 +14,4 @@
 -->
 More information in my [LinkedIn](https://www.linkedin.com/in/tonaaskalesaran/) 🚀
 
-Some of my projects are pinned below!
+Some of my projects are pinned below! ⬇️
